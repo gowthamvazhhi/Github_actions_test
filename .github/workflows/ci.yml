@@ -13,3 +13,7 @@ jobs:
 
       - name: Print Message
         run: echo "GitHub Actions is working!"
+
+   test:
+      - name: Print test Message
+        run: echo "Test"
